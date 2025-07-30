@@ -65,7 +65,7 @@ const DoubanSelector: React.FC<DoubanSelectorProps> = ({
     { label: '韩国', value: 'tv_korean' },
     { label: '动漫', value: 'tv_animation' },
     { label: '纪录片', value: 'tv_documentary' },
-    { label: '台剧', value: 'tv_documentary' },
+    { label: '台剧', value: 'tv_Taiwan' },
   ];
 
   // 综艺选择器选项
